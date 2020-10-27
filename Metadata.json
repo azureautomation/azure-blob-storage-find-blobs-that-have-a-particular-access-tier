@@ -1,0 +1,20 @@
+{
+    "Author": "Brendan Leddy",
+    "ContentSize": 2285,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-blob-storage-find-blobs-that-have-a-particular-access-tier/master/getblobtier.ps1",
+    "DownloadCount": 691,
+    "Id": "Azure-Blob-Storage-Find-e98580b3",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 365,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-3-28T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "I created this script to be able to search large Azure blob storage containers for blobs that had a 'Hot' access tier. The variable within the script can be edited to search for Blobs with Hot, Cold or Archive access tiers. I've included the use of the Continuation Token within t",
+    "Title": "Azure Blob Storage - Find Blobs that have a particular Access Tier",
+    "UpdatedDate": "2018-3-28T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-blob-storage-find-blobs-that-have-a-particular-access-tier",
+    "UserTags": "Azure Blob Storage"
+}
